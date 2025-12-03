@@ -1,43 +1,43 @@
-IDseq ;FeedingStrategy;Wing;Biogeography;BodyLength
-RNFCAR_LCO_HCO_01;;;;
-RNFCAR_LCO_HCO_02;;;;
-RNFCAR_LCO_HCO_03;;;;
-RNFCAR_LCO_HCO_04;;;;
-RNFCAR_LCO_HCO_05;;;;
-RNFCAR_LCO_HCO_06;;;;
-RNFCAR_LCO_HCO_07;;;;
-RNFCAR_LCO_HCO_08;;;;
-RNFCAR_LCO_HCO_09;;;;
-RNFCAR_LCO_10;;;;
-RNFCAR_LCO_HCO_11;;;;
-RNFCAR_LCO_HCO_12;;;;
-RNFCAR_LCO_HCO_13;;;;
-RNFCAR_HCO_14;;;;
-RNFCAR_HCO_15;;;;
-RNFCAR_LCO_HCO_16;;;;
-RNFCAR_LCO_HCO_18;;;;
-RNFCAR_LCO_HCO_19;;;;
-RNFCAR_LCO_HCO_21;;;;
-RNFCAR_LCO_22;;;;
-RNFCAR_LCO_HCO_23;;;;
-RNFCAR_LCO_HCO_24;;;;
-RNFCAR_LCO_HCO_25;;;;
-RNFCAR_LCO_HCO_26;;;;
-RNFCAR_LCO_HCO_27;;;;
-RNFCAR_LCO_HCO_29;;;;
-RNFCAR_HCO_31;;;;
-RNFCAR_HCO_32;;;;
-RNFCAR_LCO_33;;;;
-RNFCAR_LCO_HCO_34;;;;
-RNFCAR_LCO_HCO_35;;;;
-RNFCAR_LCO_HCO_36;;;;
-RNFCAR_HCO_37;;;;
-RNFCAR_LCO_HCO_38;;;;
-RNFCAR_LCO_HCO_40;;;;
-RNFCAR_LCO_41;;;;
-RNFCAR_LCO_42;;;;
-RNFCAR_LCO_HCO_43;;;;
-RNFCAR_LCO_HCO_44;;;;
-RNFCAR_LCO_HCO_45;;;;
-RNFCAR_LCO_HCO_47;;;;
-RNFCAR_LCO_HCO_48;;;;
+IDseq ;FeedingStrategy;Wing;Biogeography;BodyLength;Soil;EcologicalTolerance;BreedingSeason;FeedNote;BiogeographyDesc
+RNFCAR_LCO_HCO_01;Omnivorous;Dimorphic;EUM ;Big;Mesophilous;Euryecious;Fall;Larva carnivorous, imago herbivorous;European–Mediterranean
+RNFCAR_LCO_HCO_02;Omnivorous;Dimorphic;EUM ;Big;Mesophilous;Euryecious;Fall;Larva carnivorous, imago herbivorous;European–Mediterranean
+RNFCAR_LCO_HCO_03;Omnivorous;Dimorphic;EUM ;Big;Mesophilous;Euryecious;Fall;Larva carnivorous, imago herbivorous;European–Mediterranean
+RNFCAR_LCO_HCO_04;Carnivorous;Brachypterous;EUR ;Big;Mesophilous;Euryecious;Fall;;European
+RNFCAR_LCO_HCO_05;Carnivorous;Brachypterous;EUR ;Big;Mesophilous;Euryecious;Fall;;European
+RNFCAR_LCO_HCO_06;Carnivorous;Brachypterous;EUR ;Big;Mesophilous;Euryecious;Fall;;European
+RNFCAR_LCO_HCO_07;Herbivorous;Macropterous;EUR ;Big;Xerophilous;Euryecious;Spring;Seeds;European
+RNFCAR_LCO_HCO_08;Herbivorous;Macropterous;EUR ;Big;Xerophilous;Euryecious;Spring;Seeds;European
+RNFCAR_LCO_HCO_09;Herbivorous;Macropterous;EUR ;Big;Xerophilous;Euryecious;Spring;Seeds;European
+RNFCAR_LCO_10;Herbivorous;Macropterous;PAL ;Medium;Xerophilous;Euryecious;Spring;Seeds, rarely seen feeding on snail eggs;Palaearctic
+RNFCAR_LCO_HCO_11;Herbivorous;Macropterous;PAL ;Medium;Xerophilous;Euryecious;Spring;Seeds, rarely seen feeding on snail eggs;Palaearctic
+RNFCAR_LCO_HCO_12;Herbivorous;Macropterous;PAL ;Medium;Xerophilous;Euryecious;Spring;Seeds, rarely seen feeding on snail eggs;Palaearctic
+RNFCAR_LCO_HCO_13;Carnivorous;Brachypterous;EUR ;Big;Mesophilous;Euryecious;Spring-Fall;;European
+RNFCAR_HCO_14;Carnivorous;Brachypterous;EUR ;Big;Mesophilous;Euryecious;Spring-Fall;;European
+RNFCAR_HCO_15;Carnivorous;Brachypterous;EUR ;Big;Mesophilous;Euryecious;Spring-Fall;;European
+RNFCAR_LCO_HCO_16;Carnivorous;Brachypterous;SIE ;Big;Xerophilous;Euryecious;Spring;Likely - Data incomplete;Siberian–European
+RNFCAR_LCO_HCO_18;Carnivorous;Brachypterous;SIE ;Big;Xerophilous;Euryecious;Spring;Likely - Data incomplete;Siberian–European
+RNFCAR_LCO_HCO_19;Carnivorous;Brachypterous;EUR ;Very Big;Hygrophilous;Euryecious;Fall;;European
+RNFCAR_LCO_HCO_21;Carnivorous;Brachypterous;EUR ;Very Big;Hygrophilous;Euryecious;Fall;;European
+RNFCAR_LCO_22;Carnivorous;Brachypterous;SEU ;Very Big;Hygrophilous;Euryecious;Fall;;South-European
+RNFCAR_LCO_HCO_23;Carnivorous;Brachypterous;SEU ;Very Big;Hygrophilous;Euryecious;Fall;;South-European
+RNFCAR_LCO_HCO_24;Carnivorous;Brachypterous;SEU ;Very Big;Hygrophilous;Euryecious;Fall;;South-European
+RNFCAR_LCO_HCO_25;Omnivorous;Macropterous;PAL OLA ;Medium;Mesophilous;Euryecious;Spring;"Seeds; carnivorous diet cause reduced egg laying";Palaearctic–Holarctic
+RNFCAR_LCO_HCO_26;Omnivorous;Macropterous;PAL OLA ;Medium;Mesophilous;Euryecious;Spring;"Seeds; carnivorous diet cause reduced egg laying";Palaearctic–Holarctic
+RNFCAR_LCO_HCO_27;Omnivorous;Macropterous;PAL OLA ;Medium;Mesophilous;Euryecious;Spring;"Seeds; carnivorous diet cause reduced egg laying";Palaearctic–Holarctic
+RNFCAR_LCO_HCO_29;Herbivorous;Macropterous;ASE ;Medium;Mesophilous;Euryecious;Spring;Seeds;Asiatic–European
+RNFCAR_HCO_31;Herbivorous;Dimorphic;CEM ;Medium;Xerophilous;Euryecious;Fall;Seeds;Central Asian–European–Mediterranean
+RNFCAR_HCO_32;Herbivorous;Dimorphic;CEM ;Medium;Xerophilous;Euryecious;Fall;Seeds;Central Asian–European–Mediterranean
+RNFCAR_LCO_33;Herbivorous;Dimorphic;CEM ;Medium;Xerophilous;Euryecious;Fall;Seeds;Central Asian–European–Mediterranean
+RNFCAR_LCO_HCO_34;Omnivorous;Dimorphic;TUE ;Big;Xerophilous;Euryecious;Fall;;Turanian–European
+RNFCAR_LCO_HCO_35;Omnivorous;Dimorphic;TUE ;Big;Xerophilous;Euryecious;Fall;;Turanian–European
+RNFCAR_LCO_HCO_36;Omnivorous;Dimorphic;TUE ;Big;Xerophilous;Euryecious;Fall;;Turanian–European
+RNFCAR_HCO_37;Omnivorous;Dimorphic;EUM ;Big;Mesophilous;Euryecious;Fall;;European–Mediterranean
+RNFCAR_LCO_HCO_38;Omnivorous;Dimorphic;EUM ;Big;Mesophilous;Euryecious;Fall;;European–Mediterranean
+RNFCAR_LCO_HCO_40;Carnivorous;Brachypterous;EUR ;Big;Mesophilous;Euryecious;Fall;;European
+RNFCAR_LCO_41;Carnivorous;Brachypterous;EUR ;Big;Mesophilous;Euryecious;Fall;;European
+RNFCAR_LCO_42;Carnivorous;Brachypterous;EUR ;Big;Mesophilous;Euryecious;Fall;;European
+RNFCAR_LCO_HCO_43;Herbivorous;Macropterous;PAL ;Medium;Xerophilous;Euryecious;Spring;Seeds, rarely seen feeding on snail eggs;Palaearctic
+RNFCAR_LCO_HCO_44;Herbivorous;Macropterous;PAL ;Medium;Xerophilous;Euryecious;Spring;Seeds, rarely seen feeding on snail eggs;Palaearctic
+RNFCAR_LCO_HCO_45;Herbivorous;Macropterous;PAL ;Medium;Xerophilous;Euryecious;Spring;Seeds, rarely seen feeding on snail eggs;Palaearctic
+RNFCAR_LCO_HCO_47;Carnivorous;Brachypterous;EUR ;Very Big;Hygrophilous;Euryecious;Fall;;European
+RNFCAR_LCO_HCO_48;Carnivorous;Brachypterous;EUR ;Very Big;Hygrophilous;Euryecious;Fall;;European

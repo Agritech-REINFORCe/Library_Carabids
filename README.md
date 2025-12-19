@@ -165,5 +165,7 @@ print(traits_summary)
 - Duration: June 2024 - August 2025
 
 ## License
-License is not specified in this repository. For reuse or redistribution, please contact
-the REINFORCe project contacts.
+Open access. If you use these data, please cite them as:
+Data obtained from the REINFORCe project, "GeneRare nuove EvIdenze e sfruttare Nuove
+tecnologIe per raFforzare il ruolO della biodiversita in agriColtura", funded by the
+European Union - NextGenerationEU within the PNRR (Italia Domani), MUR.
